@@ -38,6 +38,8 @@ else
 // Задача 3. Написать программу, которая на вход принмает натуральное число и в качестве результата выводит все числа от - числа до числа. 
 // *Применение цикла
 
+/*
+
 int num;
 
 Console.Write("Input integer number: ");
@@ -50,4 +52,6 @@ while(current <= num)
     Console.Write(current + " ");
     current++; // current = current + 1;
 }
+
+/*
 
